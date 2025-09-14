@@ -1,45 +1,37 @@
-# Hi, I’m **Syed Zubair** 👋
+# 👋 Hi, I'm Syed Zubair  
 
-> Passionate Web Developer | Java & Data Structures & Algorithms Enthusiast
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=600&lines=Web+Developer+💻;Java+%26+DSA+Learner+📘;Always+Learning+%26+Building!)](https://git.io/typing-svg)
 
 ---
 
 ## 🚀 About Me
-
-- Currently learning **Java**, **Data Structures & Algorithms**, and improving my web dev skills.  
-- I love building responsive, clean UIs and solving algorithmic challenges.  
-- Aiming to collaborate on meaningful open source or internship projects.
-
----
-
-## 🛠 Skills
-
-| Frontend | Backend | Tools & Others |
-|----------|---------|----------------|
-| HTML • CSS • JavaScript • React | Java • Node.js • Express | Git • GitHub • VSCode • REST APIs |
+- 🔭 Working on Web Dev & Java Projects  
+- 🌱 Currently exploring **DSA & Full-Stack Development**  
+- 🎯 Goal: Become a **Software Engineer** & open-source contributor  
+- ⚡ Fun fact: I love to clone real-world UIs like **SpaceX 🚀**
 
 ---
 
-## 💼 Featured Projects
-
-| Project | Highlights |
-|---------|------------|
-| **SpaceX Clone** | Responsive landing page inspired by SpaceX. Used HTML, CSS, JS. Screenshot + live demo. |
-| **Full Stack Capstone** | [xrwvm-fullstack_developer_capstone] – working on backend, frontend, and deployment. |
-| **Templates & Utility Projects** | Coding-project-template etc. Good for practicing structure, clean code. |
+## 🛠 Tech Stack
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
-## 📚 What I’m Learning
+## 📊 GitHub Stats
+![Syed’s GitHub stats](https://github-readme-stats.vercel.app/api?username=SYEDZUBAIRKHADRI&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SYEDZUBAIRKHADRI&layout=compact&theme=radical)  
 
-- Advanced Java concepts, OOP, multithreading  
-- More Data Structures & Algorithms (practice on LeetCode, etc.)  
-- Backend frameworks, database integration  
+---
+
+## 🐍 Contribution Snake
+![GitHub Snake](https://github.com/SYEDZUBAIRKHADRI/SYEDZUBAIRKHADRI/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/syedzubair9)  
-Email: syedsajid6335@gmail.com  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed%20Zubair-blue?logo=linkedin)](https://linkedin.com/in/syedzubair9)  
+📧 Email: **syedsajid6335@gmail.com**  
