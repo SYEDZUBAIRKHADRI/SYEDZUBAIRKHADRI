@@ -1,37 +1,62 @@
-# 👋 Hi, I'm Syed Zubair  
+# 👋 Hi, I'm Syed Zubair — Full Stack · Java · DSA
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=600&lines=Web+Developer+💻;Java+%26+DSA+Learner+📘;Always+Learning+%26+Building!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00FF66&width=700&lines=Hi+there!+I'm+Syed+Zubair;FullStack+Developer+%7C+Java+%7C+DSA;I+build+fast,+clean+UIs+%26+learn+every+day!)](https://git.io/typing-svg)
+
+---
+
+<p align="center">
+  <a href="https://github.com/SYEDZUBAIRKHADRI">
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SYEDZUBAIRKHADRI&show_icons=true&theme=radical&count_private=true" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/SYEDZUBAIRKHADRI">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYEDZUBAIRKHADRI&layout=compact&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Contribution snake or 3D graph image placeholder -->
+  <img src="./assets/contrib-snake.gif" alt="contribution-snake" width="600"/>
+</p>
 
 ---
 
 ## 🚀 About Me
-- 🔭 Working on Web Dev & Java Projects  
-- 🌱 Currently exploring **DSA & Full-Stack Development**  
-- 🎯 Goal: Become a **Software Engineer** & open-source contributor  
-- ⚡ Fun fact: I love to clone real-world UIs like **SpaceX 🚀**
+- 🔭 Building web UI replicas (SpaceX clone) and learning backend & DSA.  
+- 🌱 Currently improving Java internals, algorithms, and full-stack flows.  
+- 🎯 Goal: strong open-source presence, internships, and contributor reputation.
 
 ---
 
 ## 🛠 Tech Stack
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**Frontend:** HTML • CSS • JavaScript • React  
+**Backend:** Node.js • Express • Java (learning)  
+**Tools:** Git • GitHub • Vercel/Netlify • VSCode • Figma
 
 ---
 
-## 📊 GitHub Stats
-![Syed’s GitHub stats](https://github-readme-stats.vercel.app/api?username=SYEDZUBAIRKHADRI&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SYEDZUBAIRKHADRI&layout=compact&theme=radical)  
+## 💡 Featured Projects
+> Click any to open the repo — each one includes a live demo, a GIF preview, and a short case study.
+
+| Project | What to look for |
+|--------:|------------------|
+| **SpaceX Clone** | Responsive landing page, animations, pixel-perfect layout. (screenshot + demo) |
+| **DSA Exercises** | Clean, documented solutions; README contains complexity analysis + test cases. |
+| **Starter Template** | Opinionated project template: routing, linting, preconfigured CI, deploy script. |
 
 ---
 
-## 🐍 Contribution Snake
-![GitHub Snake](https://github.com/SYEDZUBAIRKHADRI/SYEDZUBAIRKHADRI/blob/output/github-contribution-grid-snake.svg)
+## 🎯 What I want from you (Yes — you!)
+- ⭐ Star projects you like  
+- 🐛 Open issues / PRs if you see improvements  
+- 💬 Message me for collabs or internship help
 
 ---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed%20Zubair-blue?logo=linkedin)](https://linkedin.com/in/syedzubair9)  
-📧 Email: **syedsajid6335@gmail.com**  
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed%20Zubair-blue?logo=linkedin)](https://www.linkedin.com/in/syedzubair9)  
+✉️ Email: **syedzubair.dev@gmail.com**
+
+---
+
+*Made with ❤️ — Thank you for visiting !*
