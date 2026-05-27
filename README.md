@@ -1,62 +1,115 @@
-# 👋 Hi, I'm Syed Zubair — Full Stack · Java · DSA
+# 👨‍💻 SYED MOHAMMED ZUBAIR KHADRI
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00FF66&width=700&lines=Hi+there!+I'm+Syed+Zubair;FullStack+Developer+%7C+Java+%7C+DSA;I+build+fast,+clean+UIs+%26+learn+every+day!)](https://git.io/typing-svg)
+### Java Backend Developer • Spring Boot • REST APIs • PostgreSQL
 
----
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/SYEDZUBAIRKHADRI">
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SYEDZUBAIRKHADRI&show_icons=true&theme=radical&count_private=true" />
+    <img src="https://komarev.com/ghpvc/?username=SYEDZUBAIRKHADRI&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
-  &nbsp;
-  <a href="https://github.com/SYEDZUBAIRKHADRI">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYEDZUBAIRKHADRI&layout=compact&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- Contribution snake or 3D graph image placeholder -->
-  <img src="./assets/contrib-snake.gif" alt="contribution-snake" width="600"/>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🔭 Building web UI replicas (SpaceX clone) and learning backend & DSA.  
-- 🌱 Currently improving Java internals, algorithms, and full-stack flows.  
-- 🎯 Goal: strong open-source presence, internships, and contributor reputation.
+
+* 🔭 Building scalable backend applications using **Java, Spring Boot, PostgreSQL, and REST APIs**
+* 🔐 Interested in backend architecture, authentication systems, and scalable API design
+* 💳 Worked on real-world integrations including **Stripe Payment Gateway**, JWT Authentication, and RBAC
+* ☁️ Exploring cloud deployment using **AWS EC2, Elastic Beanstalk, and RDS**
+* 🎯 Goal: Become a strong backend engineer and contribute to production-grade systems
 
 ---
 
 ## 🛠 Tech Stack
-**Frontend:** HTML • CSS • JavaScript • React  
-**Backend:** Node.js • Express • Java (learning)  
-**Tools:** Git • GitHub • Vercel/Netlify • VSCode • Figma
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
+
+### Database & Cloud
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-Basic-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
 ---
 
-## 💡 Featured Projects
-> Click any to open the repo — each one includes a live demo, a GIF preview, and a short case study.
+## 📌 Featured Projects
 
-| Project | What to look for |
-|--------:|------------------|
-| **SpaceX Clone** | Responsive landing page, animations, pixel-perfect layout. (screenshot + demo) |
-| **DSA Exercises** | Clean, documented solutions; README contains complexity analysis + test cases. |
-| **Starter Template** | Opinionated project template: routing, linting, preconfigured CI, deploy script. |
+### 🏨 StaySphere — Hotel Reservation Backend System
 
----
+Production-grade hotel booking backend built with Spring Boot.
 
-## 🎯 What I want from you (Yes — you!)
-- ⭐ Star projects you like  
-- 🐛 Open issues / PRs if you see improvements  
-- 💬 Message me for collabs or internship help
+#### Highlights
 
----
+* JWT Authentication & RBAC
+* Stripe Payment Gateway Integration
+* 15+ RESTful APIs
+* PostgreSQL + Hibernate
+* Strategy Design Pattern
+* Real-time Booking Workflows
 
-## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed%20Zubair-blue?logo=linkedin)](https://www.linkedin.com/in/syedzubair9)  
-✉️ Email: **syedzubair.dev@gmail.com**
+🔗 Repository:
+https://github.com/SYEDZUBAIRKHADRI/Stay-Spehere---Java-Backend-Application
 
 ---
 
-*Made with ❤️ — Thank you for visiting !*
+### 🏢 StaffSync — Employee Management System
+
+Enterprise-style employee management backend system.
+
+#### Highlights
+
+* Employee & Payroll Management
+* AWS Elastic Beanstalk Deployment
+* Spring Data JPA + PostgreSQL
+* REST API Architecture
+* CRUD + Workflow Automation
+
+🔗 Repository:
+https://github.com/SYEDZUBAIRKHADRI/Employee-Management-System
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SYEDZUBAIRKHADRI&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SYEDZUBAIRKHADRI&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYEDZUBAIRKHADRI&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+* 🥉 Secured **3rd Prize in Web Development Competition**
+* 🎓 Earned **Microsoft Learn Student Ambassador Certification**
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/SYEDZUBAIRKHADRI
+* LinkedIn: https://linkedin.com/in/syedzubair9
+* Email: [zubairkhadri123@gmail.com](mailto:zubairkhadri123@gmail.com)
+
+---
+
+<p align="center">
+  <i>"Consistency and curiosity build great engineers."</i>
+</p>
